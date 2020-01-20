@@ -1,0 +1,10 @@
+[(0, '0.055*"tast" + 0.054*"good" + 0.053*"lik" + 0.046*"tea" + 0.043*"lov" + 0.041*"flav" + 0.036*"gre" + 0.035*"buy" + 0.026*"real" + 0.025*"not"'), 
+(1, '0.110*"dog" + 0.081*"food" + 0.069*"eat" + 0.039*"tre" + 0.026*"help" + 0.024*"healthy" + 0.023*"nat" + 0.022*"vet" + 0.020*"ingredy" + 0.015*"potato"'), 
+(2, '0.104*"keep" + 0.057*"cle" + 0.044*"dry" + 0.030*"fee" + 0.027*"continu" + 0.026*"send" + 0.025*"min" + 0.024*"rawhid" + 0.023*"sampl" + 0.022*"mint"'), 
+(3, '0.102*"cup" + 0.041*"larg" + 0.034*"big" + 0.027*"expect" + 0.021*"bar" + 0.021*"husband" + 0.021*"sav" + 0.020*"money" + 0.019*"least" + 0.019*"packet"'), 
+(4, '0.085*"ad" + 0.041*"receiv" + 0.034*"whit" + 0.031*"top" + 0.025*"bold" + 0.023*"mapl_syrup" + 0.023*"oz" + 0.022*"describ" + 0.019*"chin" + 0.018*"notgood"'), 
+(5, '0.038*"produc" + 0.033*"get" + 0.031*"would" + 0.024*"bag" + 0.022*"tim" + 0.018*"pack" + 0.017*"much" + 0.016*"also" + 0.014*"bit" + 0.014*"littl"'), 
+(6, '0.063*"find" + 0.047*"amazon" + 0.033*"day" + 0.032*"ord" + 0.032*"year" + 0.029*"purchas" + 0.028*"review" + 0.026*"stor" + 0.026*"sint" + 0.026*"tee"'), 
+(7, '0.063*"box" + 0.060*"cooky" + 0.046*"lot" + 0.044*"wat" + 0.038*"less" + 0.024*"contain" + 0.023*"half" + 0.023*"grocery_stor" + 0.020*"cost" + 0.018*"oil"'), 
+(8, '0.083*"coff" + 0.051*"drink" + 0.043*"mak" + 0.030*"mix" + 0.026*"favorit" + 0.025*"easy" + 0.021*"perfect" + 0.020*"hot" + 0.020*"chocol" + 0.019*"blend"'), 
+(9, '0.046*"bread" + 0.042*"quick" + 0.034*"cha" + 0.034*"cook" + 0.033*"chick" + 0.030*"hop" + 0.027*"bak" + 0.026*"meal" + 0.023*"chee" + 0.021*"recip"')]
